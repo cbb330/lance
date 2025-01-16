@@ -3834,14 +3834,17 @@ dependencies = [
  "lance-core",
  "lance-datafusion",
  "lance-encoding",
+ "lance-file",
  "lance-index",
  "lance-io",
  "lance-linalg",
  "lazy_static",
+ "object_store 0.10.2",
  "serde",
  "serde_json",
  "snafu 0.7.5",
  "tokio",
+ "url",
 ]
 
 [[package]]
